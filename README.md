@@ -7,6 +7,8 @@
 
 📫 Reach me at latecki.k@gmail.com
 
+🌐 My portfolio website - https://kacperlatecki.vercel.app/ (in progress)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-latecki-68683719a/) 
