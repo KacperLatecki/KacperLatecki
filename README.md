@@ -3,7 +3,7 @@
 # 💫 About Me:
 🌱 I’m currently learning React and Next.js <br> 
 
-👯 I’m looking to collaborate on upcoming projects<br> 
+👨‍💻 I’m looking to collaborate on upcoming projects<br> 
 
 📫 Reach me at latecki.k@gmail.com
 
