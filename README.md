@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning Next.js <br> 
+🌱 I’m currently learning Next.js and TypeScript<br> 
 
 👨‍💻 I’m looking to collaborate on upcoming projects<br> 
 
